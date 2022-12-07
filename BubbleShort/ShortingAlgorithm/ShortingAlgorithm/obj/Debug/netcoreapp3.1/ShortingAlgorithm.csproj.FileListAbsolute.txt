@@ -1,0 +1,14 @@
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\bin\Debug\netcoreapp3.1\ShortingAlgorithm.exe
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\bin\Debug\netcoreapp3.1\ShortingAlgorithm.deps.json
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\bin\Debug\netcoreapp3.1\ShortingAlgorithm.runtimeconfig.json
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\bin\Debug\netcoreapp3.1\ShortingAlgorithm.runtimeconfig.dev.json
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\bin\Debug\netcoreapp3.1\ShortingAlgorithm.dll
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\bin\Debug\netcoreapp3.1\ShortingAlgorithm.pdb
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.csproj.AssemblyReference.cache
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.AssemblyInfoInputs.cache
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.AssemblyInfo.cs
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.csproj.CoreCompileInputs.cache
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.dll
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.pdb
+E:\ShortingAlgorithm\BubbleShort\ShortingAlgorithm\ShortingAlgorithm\obj\Debug\netcoreapp3.1\ShortingAlgorithm.genruntimeconfig.cache
