@@ -9,8 +9,8 @@ namespace QuickSort
             //int[] array = new int[] { 3, 2, 8, 4, 9 };
             int[] array = { 51, 66, 72, 42, 38, 62};
             int n = array.Length;
-            quickSort(array, 0, n - 1);
             Console.WriteLine("Unsorted List : " + String.Join(", ", array));
+            quickSort(array, 0, n - 1);
             Console.WriteLine("Sorted List : " + String.Join(",", array));
         }
 

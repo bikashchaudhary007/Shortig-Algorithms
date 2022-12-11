@@ -1,0 +1,14 @@
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.AssemblyReference.cache
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+E:\ShortingAlgorithm\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache
