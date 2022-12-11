@@ -1,0 +1,14 @@
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.AssemblyReference.cache
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+E:\ShortingAlgorithm\InsertionSort\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache
