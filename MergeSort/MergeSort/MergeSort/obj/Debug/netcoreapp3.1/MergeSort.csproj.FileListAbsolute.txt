@@ -1,0 +1,14 @@
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.AssemblyReference.cache
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+E:\ShortingAlgorithm\MergeSort\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache
